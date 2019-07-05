@@ -6,4 +6,5 @@
     * [Variable Scope](JavaSyntax/VariableScope.md)
     * [Bitwise Operatprs](JavaSyntax/BitwiseOperators.md)
     * [Garbage Collection](JavaSyntax/GarbageCollection.md)
+    * [Collections: Set, List, Map](JavaSyntax/Collections.md)
 
