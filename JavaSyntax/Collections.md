@@ -2,6 +2,8 @@
 
 ![collections](collections.png)
 
+![collections](collections_sheet.png)
+
 
 
 ## iterator
@@ -117,6 +119,38 @@ public class Solution {
     }
 }
 ```
+
+### List
+
+| Operations | Method |
+| ---------- | ------ |
+| add()      |        |
+| get()      |        |
+| remove()   |        |
+
+### Stack
+
+peek()
+
+pop()
+
+push()
+
+empty()
+
+
+
+### Queue
+
+offer()
+
+poll()
+
+remove()
+
+peek()
+
+element()
 
 
 

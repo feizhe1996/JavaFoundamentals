@@ -1,5 +1,13 @@
 # Garbage Collection
 
+Garbage collection runs in its own thread.
+
+System.gc()
+
+Runtime.gc()
+
+
+
 When the garbage collector reaches an object—just before it is destroyed—the object's special `finalize()` method is called.
 
 But it is not always called before an object is destroyed.

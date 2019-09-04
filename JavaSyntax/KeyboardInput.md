@@ -7,7 +7,7 @@
 ```{java}
 InputStream inputStream = System.in;
 Reader inputStreamReader = new InputStreamReader(inputStream);
-BufferedReader bufferedReader = new ufferedReader(inputStreamReader);
+BufferedReader bufferedReader = new BufferedReader(inputStreamReader);
 //
 BufferedReader reader = new BufferedReader(new InputStreamReader(System.in));
 ```
@@ -32,9 +32,9 @@ public class Main {
 }
 ```
 
-`new InputStreamReder(System.in)`
+`new InputStreamReader(System.in)`
 
-`InputStreamReder` can convert bytes streams to character streams and read data from files.
+`InputStreamReader` can convert bytes streams to character streams and read data from files.
 
 ```{java}
 InputStreamReader inputStreamReader = new InputStreamReader(new FileInputStream("C:\\Users\\username\\Desktop\\testFile.txt"));
